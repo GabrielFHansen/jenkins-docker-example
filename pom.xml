@@ -76,7 +76,7 @@
         <plugin>
           <groupId>com.smartling.cc4j</groupId>
           <artifactId>conventional-commits-maven-plugin</artifactId>
-          <version>${version}</version>
+          <version>${project.version}</version>
         </plugin>
       </plugins>
     </pluginManagement>
