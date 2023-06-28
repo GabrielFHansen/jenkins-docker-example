@@ -8,9 +8,8 @@
   <artifactId>my-app</artifactId>
   <version>0.0.0</version>
 
-  <name>my-app</name>
-  <!-- FIXME change it to the project's website -->
-  <url>http://www.example.com</url>
+  <name>teste</name>
+  <url>192.168.0.24:8085</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
